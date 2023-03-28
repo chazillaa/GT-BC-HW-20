@@ -24,7 +24,6 @@ export default function Contact() {
 
            <div className="nes-field m-4">
            <h4 className="nes-text is-primary" for="textarea_field">Message</h4>
-              {/* <input id="message" className="input-text nes-input" type="text" required></input> */}
               
               <textarea id="textarea_field" class="nes-textarea"></textarea>
            </div>
@@ -32,6 +31,7 @@ export default function Contact() {
            <div className="nes-field m-4">
               <input className="nes-btn is-error" type="submit" value="Submit"></input>
            </div>
+           
         </form>
 
      </section>

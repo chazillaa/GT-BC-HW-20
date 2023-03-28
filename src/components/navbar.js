@@ -49,5 +49,3 @@ export default function NavBar({ currentPage, handlePageChange }) {
 </nav>
     )
 }
-
-// type="button" className="nav-item nes-btn is-primary m-3"
