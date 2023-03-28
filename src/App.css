@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +35,18 @@
   to {
     transform: rotate(360deg);
   }
+} */
+
+/**/
+.myLogo {
+  width: 5rem
+}
+
+.nav a.nav-link {
+  font-weight: 500px;
+  letter-spacing: 0.5px;
+}
+
+nav ul li {
+  text-transform: uppercase
 }
