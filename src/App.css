@@ -38,8 +38,17 @@
 } */
 
 /**/
+
+*{
+   background-color: darkgrey;
+}
+
+.nes-btn{
+  font: black;
+}
+
 .myLogo {
-  width: 5rem
+  width: 8rem
 }
 
 .nav a.nav-link {
@@ -49,4 +58,8 @@
 
 nav ul li {
   text-transform: uppercase
+}
+
+.nes-container {
+  
 }
