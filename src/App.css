@@ -40,11 +40,11 @@
 /**/
 
 *{
-   background-color: darkgrey;
+   background-color: rgb(170, 170, 170);
 }
 
 .nes-btn{
-  font: black;
+  color: black;
 }
 
 .myLogo {
